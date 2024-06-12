@@ -51,12 +51,12 @@ A página criada inclui:
 
 ### Página Inicial
 
-<img src="assets/img/bolodecenoura-2.jpg" alt="Bolo de Cenoura com Cobertura de Chocolate" width="300">
+<img src="assets/img/bolodecenoura-2.png" alt="Bolo de Cenoura com Cobertura de Chocolate" width="300">
 
 
 ### Ingredientes
 
-<img src="assets/img/bolodecenoura-1.jpg" alt="Ingredientes" width="300">
+<img src="assets/img/bolodecenoura-1.png" alt="Ingredientes" width="300">
 
 ## Contato 📬
 
