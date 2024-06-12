@@ -36,7 +36,7 @@ A página criada inclui:
 1. Clone o repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/Zirlanefiuza/soulcode-exercise
+    git clone https://github.com/Zirlanefiuza/soulcode-exercise.git
     ```
 
 2. Navegue até o diretório do projeto:
